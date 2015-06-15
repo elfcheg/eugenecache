@@ -1,0 +1,11 @@
+ADMIN='admin@email.ru'
+DD=mydd
+LABEL_TAPE='LABEL_TAPE'
+LOG="/oracle/scripts/log/tape_${LABEL_TAPE}.log"
+MAILLOG="/oracle/scripts/log/tape_${LABEL_TAPE}_mail.log"
+SMSLOG="/oracle/scripts/log/tape_${LABEL_TAPE}_sms.log"
+DIR_ARCH='/arch/dir'
+TAPE_DEV='/dev/rmt/TAPE_DEV'
+TAR=mytar
+MAIL=mailx
+MT=mymt
